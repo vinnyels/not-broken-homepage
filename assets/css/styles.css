@@ -1,4 +1,7 @@
 body {
 	color: white;
-	background-image: url("https://soyuz.276495.xyz/assets/images/iss.jpg");
+}
+
+html {
+	background-image: url("https://soyuz.276495.xyz/assets/images/iss.jpg")
 }
