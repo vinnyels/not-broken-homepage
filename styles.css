@@ -2,9 +2,9 @@ body {
 	color: white;
 }
 
-main {
+.01 {
 	background-image: url("iss.jpg");
-	background-size: 1920px 1080px;
+	background-size: 1600px 900px;
 	width: 1600px;
 	height: 900px;
 }
