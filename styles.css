@@ -2,7 +2,7 @@ body {
 	color: white;
 }
 
-.main {
+main {
 	background-image: url("iss.jpg");
 	background-size: 1920px 1080px;
 	width: 1920px;
