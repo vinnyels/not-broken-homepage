@@ -1,8 +1,5 @@
 body {
 	color: white;
+	background-image: url("iss.jpg");
 }
 
-html {
-	background-image: url("iss.jpg");
-	background-size: contain;
-}
