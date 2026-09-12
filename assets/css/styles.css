@@ -1,4 +1,4 @@
 body{
 	color:white;
-	background-image:"../images/iss.jpg"
+	background-image: url("/assets/images/iss.jpg")
 }
