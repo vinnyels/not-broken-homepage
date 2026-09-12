@@ -8,7 +8,7 @@ body {
 .roboto-<uniquifier> {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 100;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
