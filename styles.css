@@ -3,5 +3,6 @@ body {
 }
 
 html {
-	background-image: url("iss.jpg")
+	background-image: url("iss.jpg");
+	background-size: cover;
 }
